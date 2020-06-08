@@ -16,10 +16,6 @@
 #define WIDTH 251
 #define HEIGHT 250
 
-// Settings
-
-char s_Aimkey[256];
-
 // Data
 static LPDIRECT3D9              g_pD3D = NULL;
 static LPDIRECT3DDEVICE9        g_pd3dDevice = NULL;
